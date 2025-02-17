@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.my_app_digitalcards",
+      "sha256_cert_fingerprints": [
+        "4c:66:31:04:72:3b:5a:7a:94:4d:54:4b:3c:e2:23:53:ec:6e:bb:7c:eb:ba:cd:16:e9:0c:0d:cf:a2:21:27:f6"
+      ]
+    }
+  }
+]
