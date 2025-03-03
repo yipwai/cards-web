@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.my_app_digitalcards",
+      "package_name": "com.cardsfusion.digitalcards",
       "sha256_cert_fingerprints": [
         "4C:66:31:04:72:3B:5A:7A:94:4D:54:4B:3C:E2:23:53:EC:6E:BB:7C:EB:BA:CD:16:E9:0C:0D:CF:A2:21:27:F6"
       ]
