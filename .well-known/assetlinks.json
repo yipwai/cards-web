@@ -4,9 +4,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.cardsfusion.digitalcards",
-      "sha256_cert_fingerprints": [
-        "46:F2:4D:A7:97:00:E6:40:71:7F:8A:75:82:0D:91:AD:DC:67:8F:10:30:8D:E4:AE:E1:FB:CB:FF:64:C2:33:A7"
-      ]
+      "sha256_cert_fingerprints":
+        ["46:F2:4D:A7:97:00:E6:40:71:7F:8A:75:82:0D:91:AD:DC:67:8F:10:30:8D:E4:AE:E1:FB:CB:FF:64:C2:33:A7"]
     }
   }
 ]
